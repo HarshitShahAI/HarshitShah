@@ -9,10 +9,6 @@ Dedicated to improving my skills while building scalable, intelligent systems th
 - Data: Pandas, NumPy, Matplotlib  
 - Tools: Git, Github
 
-## Currently Learning
-- Quantum Computing Fundamentals
-- System Design basics
-
 ## Featured Projects  
 - [University Management System](https://github.com/HarshitShahAI/UniversityManagementSystem) – A system to manage students, courses, and grades.  
 - [Multilingual Query Classifier](https://github.com/HarshitShahAI/Multilingual-Agricultural-Query-Classification-System) – A model to classification farmer query in different languages.
